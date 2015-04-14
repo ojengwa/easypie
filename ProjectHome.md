@@ -1,0 +1,1 @@
+EasyRTC provides a good abstraction to webRTC. In this project we will
